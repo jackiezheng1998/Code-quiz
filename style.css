@@ -1,4 +1,37 @@
-header {
-    display: flex;
-    justify-content: space-between;
+body {
+    background-color: #dad5d5; 
+}
+
+h1, 
+h2 {
+    color: #465366;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+a {
+    color: #2a6977;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+#finalScore {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+p {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #5a6170;
 }
