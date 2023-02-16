@@ -22,5 +22,5 @@ THEN I can save my initials and score
 A timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code
 
 # Mock up
-C:\Users\jz000\OneDrive\Desktop\Homework\Code-quiz\Screenshot(16).png 
+(C:\Users\jz000\OneDrive\Desktop\Homework\Code-quiz\Screenshot(16).png) 
 https://jackiezheng1998.github.io/Code-quiz/ 
