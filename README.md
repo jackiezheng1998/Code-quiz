@@ -17,3 +17,9 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+
+# Description
+A timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code
+
+# Mock up
+https://jackiezheng1998.github.io/Code-quiz/ 
